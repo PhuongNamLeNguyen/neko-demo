@@ -6,3 +6,37 @@
     background-color: black;
     color: #fff;
 }
+
+/* CSS test Fonts */
+
+.bevietnampro {
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.segoe-ui{
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.noto-sans-ja p {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.noto-serif-ja {
+    font-family: 'Noto Serif JP', serif;
+}
+
+.m-plus-1p-ja {
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+.m-plus-r-ja {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.kosugi-maru-ja {
+    font-family: 'Kosugi Maru', sans-serif;
+}
+
+.sawarabi-gothic-ja {
+    font-family: 'Sawarabi Gothic', sans-serif;
+}

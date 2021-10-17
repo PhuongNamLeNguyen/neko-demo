@@ -1,0 +1,8 @@
+:root {
+    --a-a: #fff;
+}
+
+::selection {
+    background-color: black;
+    color: #fff;
+}
